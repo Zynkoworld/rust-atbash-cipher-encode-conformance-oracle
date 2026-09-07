@@ -1,0 +1,8 @@
+{"input": "yes", "expect": "bvh", "raised": false, "task": "atbash-cipher", "lang": "rust"}
+{"input": "no", "expect": "ml", "raised": false, "task": "atbash-cipher", "lang": "rust"}
+{"input": "OMG", "expect": "lnt", "raised": false, "task": "atbash-cipher", "lang": "rust"}
+{"input": "O M G", "expect": "lnt", "raised": false, "task": "atbash-cipher", "lang": "rust"}
+{"input": "mindblowingly", "expect": "nrmwy oldrm tob", "raised": false, "task": "atbash-cipher", "lang": "rust"}
+{"input": "Testing,1 2 3, testing.", "expect": "gvhgr mt123 gvhgr mt", "raised": false, "task": "atbash-cipher", "lang": "rust"}
+{"input": "Truth is fiction.", "expect": "gifgs rhurx grlm", "raised": false, "task": "atbash-cipher", "lang": "rust"}
+{"input": "The quick brown fox jumps over the lazy dog.", "expect": "gsvjf rxpyi ldmul cqfnk hlevi gsvoz abwlt", "raised": false, "task": "atbash-cipher", "lang": "rust"}
